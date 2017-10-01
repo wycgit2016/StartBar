@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StartBar.iml" filepath="$PROJECT_DIR$/StartBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpmodule/okhttpmodule.iml" filepath="$PROJECT_DIR$/okhttpmodule/okhttpmodule.iml" />
     </modules>
   </component>
 </project>
